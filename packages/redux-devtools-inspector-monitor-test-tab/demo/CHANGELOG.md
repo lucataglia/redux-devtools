@@ -1,5 +1,13 @@
 # test-demo
 
+## 0.1.11
+
+### Patch Changes
+
+- Updated dependencies [d54adb76]
+  - @redux-devtools/inspector-monitor@3.1.0
+  - @redux-devtools/inspector-monitor-test-tab@2.0.0
+
 ## 0.1.10
 
 ### Patch Changes

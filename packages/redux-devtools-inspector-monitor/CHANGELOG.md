@@ -1,5 +1,12 @@
 # Change Log
 
+## 3.1.0
+
+### Minor Changes
+
+- d54adb76: Option to sort State Tree keys alphabetically
+  Option to disable collapsing of object keys
+
 ## 3.0.2
 
 ### Patch Changes
